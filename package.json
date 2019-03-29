@@ -1,0 +1,41 @@
+{
+  "name": "react-native-tsx",
+  "version": "1.0.1",
+  "description": "🔄 Convert your React Native project from JavaScript to Typescript using default settings.",
+  "main": "index.js",
+  "homepage": "https://github.com/anthonykrivonos/react-native-tsx#readme",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonykrivonos/react-native-tsx.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "tsx",
+    "ts",
+    "typescript",
+    "compile",
+    "quick",
+    "easy"
+  ],
+  "author": "Anthony Krivonos",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "react-native-tsx": "bin/react-native-tsx"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonykrivonos/react-native-tsx/issues"
+  },
+  "homepage": "https://github.com/anthonykrivonos/react-native-tsx#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
